@@ -17,3 +17,12 @@ Before addressing the business questions, the dataset's data quality is evaluate
 
 Here is an overview of the project:
 
+![image](https://github.com/Naeimehsh/Data-Cleaning-Storytelling-Project/assets/12233739/12b3d278-b513-4164-8db8-6709d2b29f77)
+
+### The Database
+The data was provided as four csv file formats, i.e., orders, orderlines, products and brands.
+### The Repository
+The repository includes the following folders:
+
+- Codes
+- Documentation
